@@ -1,7 +1,8 @@
 # Control de acceso Modulo RFID RC522
 
 Detecta el carnet al acercarlo al modulo RFID registrando la fecha, hora y persona que se realizó la acción, además realiza un envió de correo con esta información para tener así un control efectivo del cumplimiento de los horarios. 
-Para este proyecto y para el funcionamiento de la pantalla Oled se utilizaron las librerías MFRC522 de micropython de otros repositorios.      
+Para este proyecto y para el funcionamiento de la pantalla Oled se utilizaron las librerías MFRC522 de micropython de otros repositorios.   
+
 •	https://github.com/Tasm-Devil/micropython-mfrc522-esp32
 
 •	https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
@@ -18,6 +19,7 @@ Para este proyecto y para el funcionamiento de la pantalla Oled se utilizaron la
 
 # Hardware
 Se requiere el siguiente Hardware:
+
 •	Esp32 (Wifi – Bluetooth)
 
 •	Modulo RFID RC522
@@ -30,7 +32,7 @@ Se requiere el siguiente Hardware:
 
 # Tabla de pines 
 
-![Tabla](https://user-images.githubusercontent.com/86446435/127217419-3ef17d19-4cea-4bb4-b3a3-6c4a8e2276b0.PNG)
+![Tabla](https://user-images.githubusercontent.com/86446435/127220968-4e78adb3-19fb-4d26-84be-0bf7ec94e7ff.PNG)
 
 # Componentes físicos 
 Imagen con los componentes montados y configurados 
