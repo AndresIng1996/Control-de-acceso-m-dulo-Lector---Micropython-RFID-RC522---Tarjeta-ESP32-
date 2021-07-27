@@ -32,7 +32,7 @@ Se requiere el siguiente Hardware:
 
 # Tabla de pines 
 
-![Tabla](https://user-images.githubusercontent.com/86446435/127220968-4e78adb3-19fb-4d26-84be-0bf7ec94e7ff.PNG)
+![Tabla](https://user-images.githubusercontent.com/86446435/127221742-d3e6019e-693e-419e-b7cb-70a900b43b81.PNG)
 
 # Componentes físicos 
 Imagen con los componentes montados y configurados 
