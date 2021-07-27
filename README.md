@@ -4,7 +4,6 @@ Detecta el carnet al acercarlo al modulo RFID registrando la fecha, hora y perso
 Para este proyecto y para el funcionamiento de la pantalla Oled se utilizaron las librerías MFRC522 de micropython de otros repositorios.    
  
 • https://github.com/Tasm-Devil/micropython-mfrc522-esp32
-
 • https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
 
 ## Archivos 
